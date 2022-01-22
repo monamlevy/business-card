@@ -44,17 +44,31 @@ function App() {
             <span>832-758-0434</span>
           </div>
         </div>
-        <div>
+        <div className="my-pages">
+        <div className="linkedin">
+        <a
+          
+          href="https://www.linkedin.com/in/mona-levy-a97871115/"
+          target="_blank"
+        >
           <img
             className="icon"
             src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
           />
+        </a>
         </div>
-        <div>
+        <div className="github">
+        <a
+          
+          href="https://github.com/monamlevy"
+          target="_blank"
+        >
           <img
             className="icon"
             src="https://cdn-icons-png.flaticon.com/512/733/733553.png"
           />
+          </a>
+        </div>
         </div>
       </footer>
     </div>
