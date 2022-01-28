@@ -18,13 +18,9 @@ function App() {
       <body className="app-body">
         <h2 className="about-me">About Me</h2>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officia deserunt mollit anim id est laborum.
+          I am a community taught React Developer. I've watched and coded with numerous JavaScript and React videos and courses.
+          Family and friends in the software developing industry have guided me through questions and problems.
+          I have made several applications as personal projects to sharpen my skills. Most are not on GitHub yet, but they will be.
         </p>
       </body>
       <footer className="app-footer">
@@ -39,7 +35,7 @@ function App() {
           <div className="phone">
             <img
               className="icon"
-              src="https://cdn-icons.flaticon.com/png/512/2936/premium/2936151.png?token=exp=1642737984~hmac=38401b4a61fb6b24288daa74557cfca4"
+              src="https://cdn-icons.flaticon.com/png/512/2936/premium/2936151.png?token=exp=1643339337~hmac=0f5f375c9ef407cb40a9567cf77b8aec"
             />
             <span>832-758-0434</span>
           </div>

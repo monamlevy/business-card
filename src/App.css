@@ -81,7 +81,17 @@
   width: 100%;
 }
 
-.email, .phone, .linkedin, .github {
+.email, .phone {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: aliceblue;
+  text-decoration: none;
+  padding: 10px;
+  width: 50%;
+}
+
+.linkedin, .github {
   display: flex;
   flex-direction: column;
   align-items: center;
